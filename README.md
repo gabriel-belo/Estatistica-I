@@ -162,6 +162,7 @@ Por isso, dividimos por 𝑛−1 para corrigir esse viés. Essa correção é ch
 Essa correção faz com que a variância amostral seja uma estimativa não tendenciosa da variância populacional.
 Quando calculamos a variância amostral, usamos a média da amostra (𝑥) em vez da média populacional (𝜇). Porém, a média amostral já foi calculada a partir dos próprios dados e impõe uma restrição aos valores individuais.
 Como resultado, perdemos um grau de liberdade, porque um dos valores já está "preso" pela média.
+Temos em torno de 3 desvios padrões para cada lado.
 
 <h1>11. Diminuindo o erro: Intervalo de confiança</h1>
 Como temos uma diferença entre a média da amostra e a média da população, então para não ter uma margem grande de erro damos um intervalo. 
@@ -169,3 +170,6 @@ Por exemplo:
 Se a média for 7 da amostra, iremos dar um intervalo de 6 a 8(intervalo de confiança) e temos 95%(nivel de confiança) de certeza.
 Quanto maior o nível de confiança, maior é o intervalo de confiança.
 85% é um nível de confiança comum 
+
+<h1>12. Praticando: Intervalo de Confiança</h1>
+Não temos uma função padrão para calcular o teste de confiança, então usaremos um teste de hipótese que tem o teste de confiança como saida
