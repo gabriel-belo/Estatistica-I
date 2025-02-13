@@ -173,3 +173,5 @@ Quanto maior o nível de confiança, maior é o intervalo de confiança.
 
 <h1>12. Praticando: Intervalo de Confiança</h1>
 Não temos uma função padrão para calcular o teste de confiança, então usaremos um teste de hipótese que tem o teste de confiança como saida
+
+https://www.ifmg.edu.br/conselheirolafaiete/noticias/anexos-noticias/apostila-introducao-a-estatistica-ifmg-cl.pdf
